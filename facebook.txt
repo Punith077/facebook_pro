@@ -1,3 +1,5 @@
 signup
 signin
 password
+otp
+confirm password
